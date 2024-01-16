@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#li1{
+    background-color: rgb(237, 240, 240);
+    color: black;
+}
+.navbar{
+    background-color: rgb(50, 59, 59);
+    width: 100%;
+    padding: 0 15rem ;
+    
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    font-size: 20;
+    float: left;
+    display: list-item;
+    list-style: none;
+    padding: 3px 3px;
+    color: azure;
+    margin: 30px 40px;
+    align-items: center;
+
+}
+.img1{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+.img2 {
+    margin: 20px;
+}
+.img3 {
+    margin: 20px;
+}
+.img4 {
+    margin: 20px;
+}
+.botam{
+   background-color: black;
+    color: rgb(246, 247, 248);
+    position: absolute;
+    width: 100%;
+    left: 1%;
+    padding: 10%;
+}
+.img5{
+    float: right;
+}
+.pra{
+    float:none;
+}
